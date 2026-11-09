@@ -1,0 +1,6 @@
+# une key par ligne : KEY  EXPIRATION(AAAA-MM-JJ ou 0 = a vie)  HWID(- = n'importe quel pc, BAN = bannie)  note
+POLSKA-HOLU-7D97-V3L1  0           -  moi
+POLSKA-S06D-U8NC-77S2  2026-12-09  -  client1
+POLSKA-SQYJ-K72P-5J9D  2026-12-09  -  client2
+POLSKA-ZINJ-TQ09-1WSJ  2026-12-09  -  client3
+POLSKA-VL1Z-FYLL-FZEQ  2026-12-09  -  client4
